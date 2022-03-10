@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @AbubakrAhmedFayez
-- 👀 I’m interested in Web development, Markting & Modding.
+- 👀 I’m interested in Web development & Modding.
