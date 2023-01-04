@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @AbubakrAhmedFayez
+- 👋 Hi, I’m Bakr Fayez!
+- Works as Software Engineer.
 - 👀 I’m interested in Web development & Modding.
